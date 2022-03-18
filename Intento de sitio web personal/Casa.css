@@ -3,6 +3,13 @@
   background-position: 50% 100%;
 }
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  text-align: center;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 824px;
 }
@@ -1763,6 +1770,9 @@
   font-weight: 700;
 }
 
+.listacosasvarias{
+  m
+}
 @media (max-width: 1199px) {
   .u-section-11 .u-sheet-1 {
     min-height: 572px;
@@ -1833,3 +1843,4 @@
     min-height: 77px;
   }
 }
+
