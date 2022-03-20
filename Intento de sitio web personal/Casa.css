@@ -2,6 +2,10 @@
   background-image: url("images/pexels-photo-3184450.jpg");
   background-position: 50% 100%;
 }
+.contacto {
+  margin:auto;
+}
+
 
 .center {
   margin-left: auto;
